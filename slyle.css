@@ -11,6 +11,12 @@ h2 {
     color: #fff;
 }
 
+.first-block {
+    background-color: blue;
+    color: #fff;
+    width: 50px;
+}
+
 p span {
     color: red;
 }
