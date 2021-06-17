@@ -1,0 +1,34 @@
+.logo {
+    width: 150px;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    background-color: green;
+    color: #fff;
+}
+
+.first-block {
+    background-color: blue;
+    color: #fff;
+    width: 100px;
+}
+
+p span {
+    color: red;
+}
+
+li {
+    border: 1px solid #000;
+}
+
+.block {
+    padding: 25px;
+}
+
+.left {
+    margin-left: 40px;
+}
